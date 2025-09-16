@@ -1,4 +1,4 @@
-Currently updating ...
+
 Real-Time Collaborative Document Editor
 
 A web-based document editor, similar to Google Docs, that allows multiple users to create, edit, and view documents simultaneously. Changes are synced in real-time across all connected clients, and documents are permanently saved to a database.
