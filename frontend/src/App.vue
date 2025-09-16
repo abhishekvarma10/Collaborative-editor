@@ -1,7 +1,9 @@
 <template>
-  <EditorLayout>
-    <router-view />
-  </EditorLayout>
+  <v-app theme="light">
+    <EditorLayout>
+      <router-view />
+    </EditorLayout>
+  </v-app>
 </template>
 
 <script setup>
